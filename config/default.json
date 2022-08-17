@@ -1,0 +1,5 @@
+{
+  "port" : 5000,
+  "jwtSecret": "nurai mern project",
+  "mongoUrl": "mongodb+srv://nurai121212:nurai121212@cluster0.gh8h7g9.mongodb.net/?retryWrites=true&w=majority"
+}
